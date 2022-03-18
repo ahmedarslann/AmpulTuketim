@@ -1,0 +1,25 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.pdb
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.exe
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.deps.json
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.dll
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\bin\Debug\netcoreapp3.0\Uygulamalar1.pdb
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.dll
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.pdb
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\Uygulamalar1\Uygulamalar1\obj\Debug\netcoreapp3.0\Uygulamalar1.genruntimeconfig.cache

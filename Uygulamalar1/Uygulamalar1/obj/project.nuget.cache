@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgET/pFmxujKyEk44Gmz8XWiGX31eVm/Pof4jPvg194VcSLSP8c3bX44QUAdU7Zq2ndWL6GBBFhoq+b4vZdHHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Okul\\ahmet son duzenlenecek\\c# öğrenme kodları\\Uygulamalar1\\Uygulamalar1\\Uygulamalar1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
